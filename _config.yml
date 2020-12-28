@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ddd"
+title                    : "Jiahao Wen"
 title_separator          : "-"
-name                     : &name "www"
-description              : &description "test"
+name                     : &name "Jiahao Wen"
+description              : &description "Personal page"
 url                      : https://wenplus08.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenplus08.github.io"
